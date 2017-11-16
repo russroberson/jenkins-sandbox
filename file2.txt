@@ -1,0 +1,5 @@
+total 3
+-rwxr-xr-x 1 RRoberson Brinker Primary Group 6 84 Nov 15 15:34 branching_notes.txt
+-rw-r--r-- 1 RRoberson Brinker Primary Group 6  3 Nov 16 12:17 file_in_master.txt
+-rw-r--r-- 1 RRoberson Brinker Primary Group 6  0 Nov 16 12:17 file2.txt
+-rwxr-xr-x 1 RRoberson Brinker Primary Group 6 66 Nov 15 14:49 README.md
